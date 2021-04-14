@@ -2,11 +2,11 @@ package Modelo;
 
 public class VideoGame {
 	
-	private String titulo;
-	private String horasEstimadas;
-	private boolean entregado;
-	private String genero;
-	private String compañia;
+	private String title;
+	private String estimatedTime;
+	private boolean returned;
+	private String genre;
+	private String company;
 
 	public VideoGame() {
 		
