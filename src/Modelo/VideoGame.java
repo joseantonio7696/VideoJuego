@@ -1,6 +1,6 @@
 package Modelo;
 
-public class VideoJuego {
+public class VideoGame {
 	
 	private String titulo;
 	private String horasEstimadas;
@@ -8,7 +8,7 @@ public class VideoJuego {
 	private String genero;
 	private String compañia;
 
-	public VideoJuego() {
+	public VideoGame() {
 		
 	}
 
