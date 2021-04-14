@@ -1,3 +1,4 @@
+package Vista;
 import Modelo.VideoJuego;
 
 public class Main {
